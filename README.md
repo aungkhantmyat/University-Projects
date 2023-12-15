@@ -3,7 +3,7 @@ Here are the collaborative projects I participated in during my academic journey
 
 ## 1.Vaccine Tweet Sentiment Analysis using Apache Spark and MongoDB (Fourth Year Project)
 - A report on data analysis employing diverse visualizations, utilizing the Pfizer tweet dataset to highlight valuable insights during the COVID-19 pandemic. 
-The report includes the application of Time Series Analysis, User Popularity Analysis, and Sentiment Analysis.
+The report includes the application of Time Series Analysis, User Popularity Analysis, and Sentiment Analysis.<br>
 [Go to Link](https://github.com/aungkhantmyat/Vaccine-Tweets-Sentiment-Analysis)
 
 ## 2.The Online Exam Proctoring System (Fourth Year Project)
