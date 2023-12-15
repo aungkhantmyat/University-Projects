@@ -46,5 +46,5 @@ The report includes the application of Time Series Analysis, User Popularity Ana
 [Go to Link](https://github.com/aungkhantmyat/EMOJI-ESCAPE)
 
 ## 10.EMOJI Escape (First Year Project)
--A small game where an Emoji character needs to reach and touch the actual key to unlock the door and navigate through a maze, developed using the C++ Graphic Library.<br>
+- A small game where an Emoji character needs to reach and touch the actual key to unlock the door and navigate through a maze, developed using the C++ Graphic Library.<br>
 [GO to Link](https://github.com/aungkhantmyat/Key-Finding-Puzzle-Game)
