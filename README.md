@@ -6,7 +6,7 @@ Here are the collaborative projects I participated in during my academic journey
   - Worked as a data analyst role.
   - Preprocessed data such as removing noises, tokenization, stop word and Duplicate Removal, stemming and Lemiiatization.
   - Performed sentiment analysis with Textblob, Logistic Regression and SVM.
-<be>
+<br>
 [Go to Link](https://github.com/aungkhantmyat/Vaccine-Tweets-Sentiment-Analysis)
 
 ## 2.The Online Exam Proctoring System (Fourth Year Project)
