@@ -10,8 +10,12 @@ Here are the collaborative projects I participated in during my academic journey
 [Go to Link](https://github.com/aungkhantmyat/Vaccine-Tweets-Sentiment-Analysis)
 
 ## 2.The Online Exam Proctoring System (Fourth Year Project)
-- Created an online student monitoring system capable of identifying student behaviors and computing Trust Scores for online exams.
-- Employed YoloV8 alongside other deep learning and machine learning techniques.<br>
+- Developed an online student monitoring system that identifies **student behaviors** and calculates **Trust Scores** for online exams, utilizing YoloV8 along with other deep learning and machine learning techniques.
+  - Served as a software developer role.
+  - Built the Online Exam System Web Application using Flask Framework.
+  - Developed Face Verification, Distracted Movement, and Screen Detection using Dlib, Mediapipe, and pygetwindow. 
+  - Integrated server-side cheat detection into the Online Exam Web Application.
+
 [Go to Link](https://github.com/aungkhantmyat/The-Online-Exam-Proctor)
 
 ## 3.X-Ray Abnormality Detection (Freelance Project)
