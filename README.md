@@ -1,4 +1,4 @@
-![image](https://github.com/aungkhantmyat/University-Projects/assets/48421405/1efe8cb2-d646-4169-832e-8499b2430ad8)![image](https://github.com/aungkhantmyat/University-Projects/assets/48421405/6a25e1c7-29bc-4527-a5fc-35901088cfa1)# University-Projects
+# University-Projects
 Here are the collaborative projects I participated in during my academic journey.
 
 ## 1.Vaccine Tweet Sentiment Analysis using Apache Spark and MongoDB (Fourth Year Project)
