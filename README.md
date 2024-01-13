@@ -54,17 +54,29 @@ Here are the collaborative projects I participated in during my academic journey
   - selected to exhibit in **5th UIT Open Campus**.
 
 [Go to Link](https://github.com/aungkhantmyat/ARYAWJAN-Clinic-Management-System)
-
 ## 8.DreamLoop Survival Shooting Game (Second Year Project)
-- Created an avatar game named "Dream Loop" that involves killing zombies, as a contribution to an open campus project. 
-- Developed as an action game with multiple challenging levels using Unity.<br>
+- Created an avatar game named "**Dream Loop**" that involves killing zombies, as a contribution to an open campus project. 
+  - Served as **team leader** & **game developer** roles.
+  - Developed as an action game with multiple challenging levels using **Unity Game Engine**.
+  - selected to exhibit in **4th UIT Open Campus**.
+
 [Go to Link](https://github.com/aungkhantmyat/DreamLoop-Survival-Shooting-Game)
+## 9.My Intelligent Assistant (Second Year Project)
+-A java GUI app with a **speech recognition system** that users can **open the window apps, play games, and make arithmetic calculations** by speech.
+  - Served as **Java developer** role.
+  - Implemented a **voice-controlled “Flappy Bird” Game** that can be played through the Java app by using speech commands.
+  - selected to exhibit in **4th UIT Open Campus**.
 
-## 9.Unity Educational Maze Game (Phandeeyar Game Dev Challenge Hackathon)
+## 10.Unity Educational Maze Game (Phandeeyar Game Dev Challenge Hackathon)
 - Designed an interactive maze puzzle game specifically for Windows OS.
-- Implemented various difficulty levels using the Unity game engine. Attained the 5th position out of 15 teams and received recognition with one of the "Fun games by newbies" awards.<br>
+  - Implemented various difficulty levels using the **Unity game engine**. 
+  - Attained the **5th position** out of 15 teams and received recognition with one of the "**Fun games by newbies**" awards.
+ 
 [Go to Link](https://github.com/aungkhantmyat/EMOJI-ESCAPE)
+## 11.EMOJI Escape (First Year Project)
+- A small game where an Emoji character needs to reach and touch the actual key to unlock the door and navigate through a maze, developed using the C++ Graphic Library.
+  - Served as **team leader** & **game developer** roles.
+  - Designed & built the game characters and the game map using the **C++ Graphics library**. 
+  - selected to exhibit in **3rd UIT Open Campus**.
 
-## 10.EMOJI Escape (First Year Project)
-- A small game where an Emoji character needs to reach and touch the actual key to unlock the door and navigate through a maze, developed using the C++ Graphic Library.<br>
 [Go to Link](https://github.com/aungkhantmyat/Key-Finding-Puzzle-Game)
