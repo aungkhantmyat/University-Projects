@@ -8,16 +8,14 @@ Here are the collaborative projects I participated in during my academic journey
   - **Performed sentiment analysis** with Textblob, Logistic Regression and SVM.
 
 [Go to Link](https://github.com/aungkhantmyat/Vaccine-Tweets-Sentiment-Analysis)
-
 ## 2.The Online Exam Proctoring System (Fourth Year Project)
 - Developed an online student monitoring system that identifies **student behaviors** and calculates **Trust Scores** for online exams, utilizing YoloV8 along with other deep learning and machine learning techniques.
-  - Served as a software developer role.
-  - Built the Online Exam System Web Application using Flask Framework.
-  - Developed Face Verification, Distracted Movement, and Screen Detection using Dlib, Mediapipe, and pygetwindow. 
-  - Integrated server-side cheat detection into the Online Exam Web Application.
+  - Served as a **software developer** role.
+  - Built the Online Exam System Web Application using **Flask Framework**.
+  - Developed Face Verification, Distracted Movement, and Screen Detection using **Dlib, Mediapipe,** and **pygetwindow**. 
+  - **Integrated** server-side cheat detection into the Online Exam Web Application.
 
 [Go to Link](https://github.com/aungkhantmyat/The-Online-Exam-Proctor)
-
 ## 3.X-Ray Abnormality Detection (Freelance Project)
 - Developed classification models based on deep learning to identify musculoskeletal abnormalities in the MURA X-Ray Elbow Dataset. 
 - Preprocessed data using histogram equalization (HE) and contrast limited adaptive histogram equalization (CLAHE), then applied Multi-Layered Neural Network models, including VGG, ResNet, and DenseNet.<br>
