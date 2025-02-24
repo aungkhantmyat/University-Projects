@@ -2,7 +2,7 @@
 Here are the collaborative projects I participated in during my academic journey.
 
 ## 1.Myanmar News Classification and Summarization (Final Year Capstone Project)
-- A natural language processing project that **classifies Myanmar news articles** into distinct categories and **summarizes** them using both **extractive and abstractive techniques**. By combining machine learning with advanced text summarization methods, it provides valuable insights into Myanmar's news landscape. The project's findings were published in both **ICAIT 2024** (5th International Conference on Advanced Information Technologies) and **ICCA 2025** (22nd IEEE International Conference on Computer Applications).
+- A natural language processing project that **classifies Myanmar news articles** into distinct categories and **summarizes** them using both **extractive and abstractive techniques**. By combining machine learning with advanced text summarization methods, it provides valuable insights into Myanmar's news landscape. The project's findings were published in both **IEEE-ICAIT 2024** (5th International Conference on Advanced Information Technologies) and **IEEE-ICCA 2025** (22nd IEEE International Conference on Computer Applications).
   - Worked as a **machine learning engineer** role.
   - **Preprocessed data** through tokenization, stop word removal, and sentence segmentation.
   - Performed **classification** with various ML models and **extractive summarization** using TextRank and, cosine similarity.
